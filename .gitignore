@@ -8,3 +8,5 @@
 # Xcode user data
 xcuserdata/
 *.xcuserstate
+**/xcuserdata/
+**/*.xcuserstate
